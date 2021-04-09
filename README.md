@@ -1,4 +1,4 @@
-Cuberite plugin that prevents the weather from getting rainy
+A very simple Cuberite plugin that prevents the weather from getting rainy
 
 That's... all there is to it. no commands, no permissions.  :)
 
